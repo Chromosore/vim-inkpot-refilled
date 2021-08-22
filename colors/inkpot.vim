@@ -4,13 +4,13 @@
 " Maintainer:  Chromosore
 " Homepage:    http://github.com/chromosore/vim-inkpot-refilled/
 
-let g:colors_name = 'inkpot'
-
-set background=dark
 hi clear
 if exists('syntax_on')
   syntax reset
 endif
+
+let g:colors_name = 'inkpot'
+set background=dark
 
 let s:use_black_background = get(g:, 'inkpot_black_background', 0)
 
