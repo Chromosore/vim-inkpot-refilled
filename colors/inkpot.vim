@@ -33,7 +33,7 @@ hi User2          gui=bold   guifg=#7070a0   guibg=#3e3e5e   cterm=bold   ctermf
 hi StatusLineNC   gui=NONE   guifg=#b9b9b9   guibg=#3e3e5e   cterm=NONE   ctermfg=244   ctermbg=235
 hi VertSplit      gui=NONE   guifg=#b9b9b9   guibg=#3e3e5e   cterm=NONE   ctermfg=244   ctermbg=235
 
-hi TabLineSel     gui=bold   guifg=#cfbfad   guibg=#1e1e27   cterm=bold   ctermfg=247   ctermbg=232
+hi TabLineSel     gui=bold   guifg=#cfbfad   guibg=NONE      cterm=bold   ctermfg=247   ctermbg=NONE
 hi TabLine        gui=bold   guifg=#b9b9b9   guibg=#3e3e5e   cterm=bold   ctermfg=244   ctermbg=235
 hi TabLineFill    gui=bold   guifg=#b9b9b9   guibg=#3e3e5e   cterm=bold   ctermfg=244   ctermbg=235
 
