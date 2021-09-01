@@ -97,6 +97,12 @@ hi MatchParen     gui=NONE   guifg=#cfbfad   guibg=#4e4e8f   cterm=NONE   ctermf
 hi Conceal        gui=NONE   guifg=#c080d0   guibg=NONE      cterm=NONE   ctermfg=135   ctermbg=NONE
 hi ColorColumn    gui=NONE                   guibg=#2e2e2e   cterm=NONE                 ctermbg=235
 
+hi NormalMode     gui=bold   guifg=#b9b9b9   guibg=#3e3e5e   cterm=bold   ctermfg=247   ctermbg=235
+hi InsertMode     gui=bold   guifg=#cfcfcd   guibg=#4b208f   cterm=bold   ctermfg=231   ctermbg=57
+hi ReplaceMode    gui=bold   guifg=#303030   guibg=#ad7b57   cterm=bold   ctermfg=232   ctermbg=130
+hi VisualMode     gui=bold   guifg=#eeeeee   guibg=#4e4e8f   cterm=bold   ctermfg=231   ctermbg=61
+hi CommandMode    gui=bold   guifg=#404040   guibg=#8b8bff   cterm=bold   ctermfg=235   ctermbg=238
+
 
 hi perlSpecialMatch   gui=NONE guifg=#c080d0   guibg=#404040
 hi perlSpecialString  gui=NONE guifg=#c080d0   guibg=#404040
