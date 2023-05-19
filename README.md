@@ -1,5 +1,8 @@
 # Inkpot Refilled
 
+> Note: I'm not maintaining this anymore, feel free to reach out (I guess open an issue on my dotfiles) if you want to take the lead.
+> This fork works for termguicolors but that's it, there's no other fancy neovim LSP highlight group or anything like that.
+
 ![](inkpot-screenshot.png)
 
 Inkpot Refilled is a fork of the unmaintained inkpot theme by @ciaranm
